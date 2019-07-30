@@ -1,0 +1,38 @@
+Especificaciones del Proyecto 
+
+                                                       CONECTA 4
+
+Incluye:
+-Se podrá jugar de una sola persona contra la máquina o entre dos personas que se encuentren en el mismo lugar. (30%) 
+-Se jugará en una matriz de tamano variable. (5%) 
+-Reiniciar el tablero. (10%) 
+-Se puede ganar con las fichas verticales, horizontales o diagonales. (20%) 
+-Se gana poniendo 4 fichas en línea en cualquier forma del acápite anterior. (10%) 
+-Opción de jugar por rondas y que en pantalla se presente cuantas lleva ganadas la persona y
+ Almacenar historial de ganas por usuario en el disco duro y leerlo más adelante (20%) 
+-Cada jugador podrá ingresar su nombre. (5%) 
+                         
+                         
+                         TOTAL= 100%
+                         
+                         
+
+No Incluye:
+-Opción de pausa. 
+-Opción para guardar partida. 
+-Jugar desde diferentes lugares. 
+-Elegir el color de las fichas. 
+-Eliminar ficha del tablero ya puesta. 
+
+
+
+
+Extra:
+-Interfaz gráfica con efectos de movimiento, p. e., si el usuario desea ubicar una ficha en la primera columna de la matriz, 
+mostrará cuando va cayendo. (7%)
+
+-Opción de jugar con tiempo (cambia reglas del juego; con esta opción si el jugador tiene mas 
+fichas en el tablero y se acaba el tiempo y no logro formar una línea, gana a la maquina) o si es entre dos
+jugadores del mismo lugar gana el que tenga más de los dos. (2%) 
+
+ 
