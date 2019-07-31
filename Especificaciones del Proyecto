@@ -4,7 +4,7 @@ Especificaciones del Proyecto
 
 Incluye:
 -Se podrá jugar entre dos personas que se encuentren en el mismo lugar. (30%) 
--Se jugará en una matriz de tamano variable. (5%)  
+-Se jugará en una matriz 6x7. (5%)  
 -Se puede ganar con las fichas verticales, horizontales o diagonales. (25%) 
 -Se gana poniendo 4 fichas en línea en cualquier forma del acápite anterior. (15%) 
 -Almacenar historial de ganas por usuario en el disco duro y leerlo más adelante (20%) 
