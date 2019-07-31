@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1564599217 source:c:\users\wilbe\onedrive\desktop\proyectolabconecta4\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1564551375 c:\users\wilbe\onedrive\desktop\proyectolabconecta4\funciones.h
+
+1564552017 source:c:\users\wilbe\onedrive\desktop\minunit_proyectolabconecta4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1564599275 source:c:\users\wilbe\onedrive\desktop\minunit_proyectolabconecta4\minunit_example.c
+	"minunit.h"
+	"../ProyectoLabConecta4/funciones.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1555425195 c:\users\wilbe\onedrive\desktop\minunit_proyectolabconecta4\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
